@@ -1,0 +1,6 @@
+
+jacobi_final:121078 terminated with signal 11 at PC=5617e58bc84a SP=7ffe637aab20.  Backtrace:
+./jacobi_final(+0x184a)[0x5617e58bc84a]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f42becd0d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f42becd0e40]
+./jacobi_final(+0x11a5)[0x5617e58bc1a5]
